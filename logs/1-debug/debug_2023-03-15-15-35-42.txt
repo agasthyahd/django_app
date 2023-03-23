@@ -1,0 +1,4120 @@
+JobID: 77f94922-c961-4742-83f8-5fb97e7833bd
+
+#1 INFO: Starting crawl job
+
+
+START: 2023-03-15 19:36:10.065236 UTC
+
+
+CONFIG:
+total_depth = 4
+scrape = False
+save = True
+redundancy_level = 1
+print_level = 1
+url_input_list =
+    https://www.wikipedia.org
+
+
+==================================================
+
+
+#2 INFO: Prefix not detected | //creativecommons.org/licenses/by-sa/3.0/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#3 INFO: Prefix not detected | //upload.wikimedia.org
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#4 INFO: Prefix not detected | //en.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#5 INFO: Prefix not detected | //ru.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#6 INFO: Prefix not detected | //es.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#7 INFO: Prefix not detected | //ja.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#8 INFO: Prefix not detected | //de.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#9 INFO: Prefix not detected | //fr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#10 INFO: Prefix not detected | //it.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#11 INFO: Prefix not detected | //zh.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#12 INFO: Prefix not detected | //pt.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#13 INFO: Prefix not detected | //ar.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#14 INFO: Prefix not detected | //pl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#15 INFO: Prefix not detected | //arz.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#16 INFO: Prefix not detected | //nl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#17 INFO: Prefix not detected | //ceb.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#18 INFO: Prefix not detected | //sv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#19 INFO: Prefix not detected | //uk.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#20 INFO: Prefix not detected | //vi.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#21 INFO: Prefix not detected | //war.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#22 INFO: Prefix not detected | //af.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#23 INFO: Prefix not detected | //ast.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#24 INFO: Prefix not detected | //az.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#25 INFO: Prefix not detected | //bg.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#26 INFO: Prefix not detected | //zh-min-nan.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#27 INFO: Prefix not detected | //bn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#28 INFO: Prefix not detected | //be.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#29 INFO: Prefix not detected | //ca.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#30 INFO: Prefix not detected | //cs.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#31 INFO: Prefix not detected | //cy.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#32 INFO: Prefix not detected | //da.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#33 INFO: Prefix not detected | //et.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#34 INFO: Prefix not detected | //el.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#35 INFO: Prefix not detected | //eo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#36 INFO: Prefix not detected | //eu.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#37 INFO: Prefix not detected | //fa.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#38 INFO: Prefix not detected | //gl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#39 INFO: Prefix not detected | //ko.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#40 INFO: Prefix not detected | //hi.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#41 INFO: Prefix not detected | //hr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#42 INFO: Prefix not detected | //id.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#43 INFO: Prefix not detected | //he.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#44 INFO: Prefix not detected | //ka.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#45 INFO: Prefix not detected | //la.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#46 INFO: Prefix not detected | //lv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#47 INFO: Prefix not detected | //lt.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#48 INFO: Prefix not detected | //hu.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#49 INFO: Prefix not detected | //mk.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#50 INFO: Prefix not detected | //ms.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#51 INFO: Prefix not detected | //min.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#52 INFO: Prefix not detected | //no.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#53 INFO: Prefix not detected | //nn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#54 INFO: Prefix not detected | //ce.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#55 INFO: Prefix not detected | //uz.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#56 INFO: Prefix not detected | //kk.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#57 INFO: Prefix not detected | //ro.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#58 INFO: Prefix not detected | //simple.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#59 INFO: Prefix not detected | //sk.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#60 INFO: Prefix not detected | //sl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#61 INFO: Prefix not detected | //sr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#62 INFO: Prefix not detected | //sh.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#63 INFO: Prefix not detected | //fi.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#64 INFO: Prefix not detected | //ta.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#65 INFO: Prefix not detected | //tt.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#66 INFO: Prefix not detected | //th.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#67 INFO: Prefix not detected | //tg.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#68 INFO: Prefix not detected | //azb.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#69 INFO: Prefix not detected | //tr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#70 INFO: Prefix not detected | //ur.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#71 INFO: Prefix not detected | //zh-yue.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#72 INFO: Prefix not detected | //hy.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#73 INFO: Prefix not detected | //my.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#74 INFO: Prefix not detected | //ace.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#75 INFO: Prefix not detected | //als.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#76 INFO: Prefix not detected | //am.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#77 INFO: Prefix not detected | //an.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#78 INFO: Prefix not detected | //hyw.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#79 INFO: Prefix not detected | //ban.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#80 INFO: Prefix not detected | //bjn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#81 INFO: Prefix not detected | //map-bms.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#82 INFO: Prefix not detected | //ba.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#83 INFO: Prefix not detected | //be-tarask.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#84 INFO: Prefix not detected | //bcl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#85 INFO: Prefix not detected | //bpy.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#86 INFO: Prefix not detected | //bar.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#87 INFO: Prefix not detected | //bs.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#88 INFO: Prefix not detected | //br.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#89 INFO: Prefix not detected | //cv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#90 INFO: Prefix not detected | //nv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#91 INFO: Prefix not detected | //eml.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#92 INFO: Prefix not detected | //hif.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#93 INFO: Prefix not detected | //fo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#94 INFO: Prefix not detected | //fy.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#95 INFO: Prefix not detected | //ga.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#96 INFO: Prefix not detected | //gd.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#97 INFO: Prefix not detected | //gu.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#98 INFO: Prefix not detected | //hak.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#99 INFO: Prefix not detected | //ha.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#100 INFO: Prefix not detected | //hsb.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#101 INFO: Prefix not detected | //io.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#102 INFO: Prefix not detected | //ig.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#103 INFO: Prefix not detected | //ilo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#104 INFO: Prefix not detected | //ia.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#105 INFO: Prefix not detected | //ie.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#106 INFO: Prefix not detected | //os.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#107 INFO: Prefix not detected | //is.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#108 INFO: Prefix not detected | //jv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#109 INFO: Prefix not detected | //kn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#110 INFO: Prefix not detected | //ht.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#111 INFO: Prefix not detected | //ku.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#112 INFO: Prefix not detected | //ckb.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#113 INFO: Prefix not detected | //ky.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#114 INFO: Prefix not detected | //mrj.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#115 INFO: Prefix not detected | //lb.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#116 INFO: Prefix not detected | //lij.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#117 INFO: Prefix not detected | //li.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#118 INFO: Prefix not detected | //lmo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#119 INFO: Prefix not detected | //mai.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#120 INFO: Prefix not detected | //mg.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#121 INFO: Prefix not detected | //ml.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#122 INFO: Prefix not detected | //zh-classical.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#123 INFO: Prefix not detected | //mr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#124 INFO: Prefix not detected | //xmf.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#125 INFO: Prefix not detected | //mzn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#126 INFO: Prefix not detected | //cdo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#127 INFO: Prefix not detected | //mn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#128 INFO: Prefix not detected | //nap.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#129 INFO: Prefix not detected | //new.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#130 INFO: Prefix not detected | //ne.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#131 INFO: Prefix not detected | //frr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#132 INFO: Prefix not detected | //oc.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#133 INFO: Prefix not detected | //mhr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#134 INFO: Prefix not detected | //or.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#135 INFO: Prefix not detected | //as.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#136 INFO: Prefix not detected | //pa.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#137 INFO: Prefix not detected | //pnb.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#138 INFO: Prefix not detected | //ps.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#139 INFO: Prefix not detected | //pms.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#140 INFO: Prefix not detected | //nds.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#141 INFO: Prefix not detected | //crh.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#142 INFO: Prefix not detected | //qu.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#143 INFO: Prefix not detected | //sa.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#144 INFO: Prefix not detected | //sah.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#145 INFO: Prefix not detected | //sco.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#146 INFO: Prefix not detected | //sn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#147 INFO: Prefix not detected | //sq.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#148 INFO: Prefix not detected | //scn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#149 INFO: Prefix not detected | //si.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#150 INFO: Prefix not detected | //sd.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#151 INFO: Prefix not detected | //szl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#152 INFO: Prefix not detected | //su.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#153 INFO: Prefix not detected | //sw.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#154 INFO: Prefix not detected | //tl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#155 INFO: Prefix not detected | //shn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#156 INFO: Prefix not detected | //te.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#157 INFO: Prefix not detected | //bug.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#158 INFO: Prefix not detected | //vec.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#159 INFO: Prefix not detected | //vo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#160 INFO: Prefix not detected | //wa.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#161 INFO: Prefix not detected | //wuu.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#162 INFO: Prefix not detected | //yi.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#163 INFO: Prefix not detected | //yo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#164 INFO: Prefix not detected | //diq.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#165 INFO: Prefix not detected | //bat-smg.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#166 INFO: Prefix not detected | //zu.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#167 INFO: Prefix not detected | //lad.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#168 INFO: Prefix not detected | //kbd.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#169 INFO: Prefix not detected | //ang.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#170 INFO: Prefix not detected | //smn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#171 INFO: Prefix not detected | //ab.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#172 INFO: Prefix not detected | //roa-rup.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#173 INFO: Prefix not detected | //frp.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#174 INFO: Prefix not detected | //arc.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#175 INFO: Prefix not detected | //gn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#176 INFO: Prefix not detected | //av.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#177 INFO: Prefix not detected | //ay.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#178 INFO: Prefix not detected | //bh.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#179 INFO: Prefix not detected | //bi.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#180 INFO: Prefix not detected | //bo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#181 INFO: Prefix not detected | //bxr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#182 INFO: Prefix not detected | //cbk-zam.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#183 INFO: Prefix not detected | //ny.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#184 INFO: Prefix not detected | //co.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#185 INFO: Prefix not detected | //za.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#186 INFO: Prefix not detected | //dag.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#187 INFO: Prefix not detected | //ary.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#188 INFO: Prefix not detected | //se.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#189 INFO: Prefix not detected | //pdc.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#190 INFO: Prefix not detected | //dv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#191 INFO: Prefix not detected | //dsb.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#192 INFO: Prefix not detected | //myv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#193 INFO: Prefix not detected | //ext.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#194 INFO: Prefix not detected | //fur.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#195 INFO: Prefix not detected | //gv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#196 INFO: Prefix not detected | //gag.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#197 INFO: Prefix not detected | //inh.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#198 INFO: Prefix not detected | //ki.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#199 INFO: Prefix not detected | //glk.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#200 INFO: Prefix not detected | //gan.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#201 INFO: Prefix not detected | //guw.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#202 INFO: Prefix not detected | //xal.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#203 INFO: Prefix not detected | //haw.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#204 INFO: Prefix not detected | //rw.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#205 INFO: Prefix not detected | //kbp.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#206 INFO: Prefix not detected | //pam.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#207 INFO: Prefix not detected | //csb.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#208 INFO: Prefix not detected | //kw.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#209 INFO: Prefix not detected | //km.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#210 INFO: Prefix not detected | //kv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#211 INFO: Prefix not detected | //koi.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#212 INFO: Prefix not detected | //kg.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#213 INFO: Prefix not detected | //gom.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#214 INFO: Prefix not detected | //ks.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#215 INFO: Prefix not detected | //gcr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#216 INFO: Prefix not detected | //lo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#217 INFO: Prefix not detected | //lbe.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#218 INFO: Prefix not detected | //ltg.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#219 INFO: Prefix not detected | //lez.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#220 INFO: Prefix not detected | //nia.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#221 INFO: Prefix not detected | //ln.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#222 INFO: Prefix not detected | //jbo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#223 INFO: Prefix not detected | //lg.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#224 INFO: Prefix not detected | //mt.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#225 INFO: Prefix not detected | //mi.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#226 INFO: Prefix not detected | //tw.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#227 INFO: Prefix not detected | //mwl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#228 INFO: Prefix not detected | //mdf.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#229 INFO: Prefix not detected | //mnw.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#230 INFO: Prefix not detected | //nqo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#231 INFO: Prefix not detected | //fj.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#232 INFO: Prefix not detected | //nah.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#233 INFO: Prefix not detected | //na.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#234 INFO: Prefix not detected | //nds-nl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#235 INFO: Prefix not detected | //nrm.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#236 INFO: Prefix not detected | //nov.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#237 INFO: Prefix not detected | //om.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#238 INFO: Prefix not detected | //blk.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#239 INFO: Prefix not detected | //pi.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#240 INFO: Prefix not detected | //pag.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#241 INFO: Prefix not detected | //pap.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#242 INFO: Prefix not detected | //pfl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#243 INFO: Prefix not detected | //pcd.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#244 INFO: Prefix not detected | //krc.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#245 INFO: Prefix not detected | //kaa.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#246 INFO: Prefix not detected | //ksh.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#247 INFO: Prefix not detected | //rm.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#248 INFO: Prefix not detected | //rue.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#249 INFO: Prefix not detected | //sm.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#250 INFO: Prefix not detected | //sat.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#251 INFO: Prefix not detected | //skr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#252 INFO: Prefix not detected | //sc.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#253 INFO: Prefix not detected | //trv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#254 INFO: Prefix not detected | //stq.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#255 INFO: Prefix not detected | //nso.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#256 INFO: Prefix not detected | //tn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#257 INFO: Prefix not detected | //cu.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#258 INFO: Prefix not detected | //so.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#259 INFO: Prefix not detected | //srn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#260 INFO: Prefix not detected | //kab.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#261 INFO: Prefix not detected | //roa-tara.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#262 INFO: Prefix not detected | //tet.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#263 INFO: Prefix not detected | //tpi.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#264 INFO: Prefix not detected | //to.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#265 INFO: Prefix not detected | //chr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#266 INFO: Prefix not detected | //tum.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#267 INFO: Prefix not detected | //tk.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#268 INFO: Prefix not detected | //tyv.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#269 INFO: Prefix not detected | //udm.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#270 INFO: Prefix not detected | //ug.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#271 INFO: Prefix not detected | //vep.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#272 INFO: Prefix not detected | //fiu-vro.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#273 INFO: Prefix not detected | //vls.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#274 INFO: Prefix not detected | //wo.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#275 INFO: Prefix not detected | //xh.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#276 INFO: Prefix not detected | //zea.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#277 INFO: Prefix not detected | //ty.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#278 INFO: Prefix not detected | //ak.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#279 INFO: Prefix not detected | //bm.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#280 INFO: Prefix not detected | //ch.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#281 INFO: Prefix not detected | //ee.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#282 INFO: Prefix not detected | //ff.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#283 INFO: Prefix not detected | //got.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#284 INFO: Prefix not detected | //iu.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#285 INFO: Prefix not detected | //ik.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#286 INFO: Prefix not detected | //kl.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#287 INFO: Prefix not detected | //mad.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#288 INFO: Prefix not detected | //cr.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#289 INFO: Prefix not detected | //pih.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#290 INFO: Prefix not detected | //ami.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#291 INFO: Prefix not detected | //pwn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#292 INFO: Prefix not detected | //pnt.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#293 INFO: Prefix not detected | //dz.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#294 INFO: Prefix not detected | //rmy.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#295 INFO: Prefix not detected | //rn.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#296 INFO: Prefix not detected | //sg.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#297 INFO: Prefix not detected | //st.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#298 INFO: Prefix not detected | //ss.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#299 INFO: Prefix not detected | //ti.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#300 INFO: Prefix not detected | //din.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#301 INFO: Prefix not detected | //chy.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#302 INFO: Prefix not detected | //ts.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#303 INFO: Prefix not detected | //kcg.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#304 INFO: Prefix not detected | //ve.wikipedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#305 INFO: Prefix not detected | //commons.wikimedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#306 INFO: Prefix not detected | //www.wikivoyage.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#307 INFO: Prefix not detected | //www.wiktionary.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#308 INFO: Prefix not detected | //www.wikibooks.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#309 INFO: Prefix not detected | //www.wikinews.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#310 INFO: Prefix not detected | //www.wikidata.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#311 INFO: Prefix not detected | //www.wikiversity.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#312 INFO: Prefix not detected | //www.wikiquote.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#313 INFO: Prefix not detected | //www.mediawiki.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#314 INFO: Prefix not detected | //www.wikisource.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#315 INFO: Prefix not detected | //species.wikimedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+#316 INFO: Prefix not detected | //meta.wikimedia.org/
+
+
+The passed URL was scanned, but no prefix was detected
+
+
+Location: get_prefix()
+Result: Returning 'http://'
+
+
+==================================================
+
+
+**Job Stats**
+Errors: 0
+0.570388 seconds
+Timestamp: 2023-03-15-15-35-42

@@ -1,0 +1,21 @@
+JobID: 83105998-b25f-44e7-9fb2-b4923c3f4970
+
+#1 INFO: Starting crawl job
+
+
+START: 2023-03-15 19:34:17.331103 UTC
+
+
+CONFIG:
+total_depth = 4
+scrape = False
+save = True
+redundancy_level = 1
+print_level = 1
+url_input_list =
+    https://www.wikipedia.org
+
+
+==================================================
+
+
